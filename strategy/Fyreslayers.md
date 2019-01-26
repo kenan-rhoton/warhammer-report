@@ -217,6 +217,10 @@ The true elite melee unit of the faction, with a both simpler and harder to mant
 
 This guys are pretty good and absolutely brutal with the Lords of the Lodge ability that allows them to swing twice. Generally more expensive to take than the Vulkites, though, so you'll at most field a unit of 5-10 of these unless you take the 30 model discount (which is a pretty sweet deal).
 
+Of important note is the fact that the Flamestrike Poleaxe only slightly overtakes the Broadaxe (by 0.01 average wounds) when the target has a Save of 4+. This means that it's mostly effective vs units with 3+ Save (like Stormcast Eternals) or units that reduce damage (Beastclaw Raiders).
+
+Even then, the Rune of Awakened Steel can compensate in those cases for the Broadaxes, so it's generally the better option, probably (unless you know you will only face Stormcast and Beastclaw, really).
+
 ## The Battallions
 
 ### Lords of the Lodge (110)
@@ -235,3 +239,37 @@ Abilities:
 #### Notes
 
 The main reason to take Hearthguard Berzerkers and a Runemaster, the Oathbound Guardians ability is crazy good, especially if you have a Runefather + Battlesmith combo next to them, making it very hard to kill them or the heroes.
+
+### Warrior Kinband (120)
+
+![Warrior Kinband](images/WarriorKinband.jpg)
+
+- 1 Auric Runeson or Auric Runeson on Magmadroth
+- 3 units of Vulkite Berzerkers
+
+Abilities:
+- Legacy of the Lodge: Vulkite Berzerker models within 10" of their Kinband's Runeson can throw their axes twice.
+- Berserk Kindred: Vulkite Berzerkers move an aditional D3" when they pile in if they are within 5" of another unit of Vulkites from the same Kinband.
+
+#### Notes
+
+This battallion can surprise with the amount of range that happens, especially if you use the Rune of Farsight. Also, it's an effective cheap way to add points to your army on a budget.
+
+However, throwing axes is not the most impressive attack ever, so don't expect this to win you games on its own.
+
+### Forge Brethren (140)
+
+![Forge Brethren](images/ForgeBrethren.jpg)
+
+- 1 Auric Runesmiter or Auric Runesmiter on Magmadroth
+- 3 units of Auric Hearthguard
+
+Abilities:
+- Master-forged Blades: on a 6+ wound roll in the combat phase, subtract 1 from the save result.
+- Bulwark of Molten Stone: In the hero phase, pick an Auric Hearthguard unit within 10" of the Runesmiter. Then pick a unit within 15" of that Auric Hearthguard. Add 1 to that unit's Save rolls until it charges or your next hero phase.
+
+#### Notes
+
+Pretty good, crazy expensive. Normally a Battlesmith is more effective, but this stacks with it.
+Make sure to protect the Runesmiter!
+
