@@ -1,5 +1,8 @@
 # Fyreslayers
 
+- [The Units](#the-units)
+- [The Battallions](#the-battallions)
+
 ## The Units
 
 We'll talk about all of the units, their options and considerations for them when being taken on any list.
