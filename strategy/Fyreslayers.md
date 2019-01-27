@@ -2,6 +2,7 @@
 
 - [The Units](#the-units)
 - [The Battallions](#the-battallions)
+- [The Runes](#the-runes)
 
 ## The Units
 
@@ -273,3 +274,21 @@ Abilities:
 Pretty good, crazy expensive. Normally a Battlesmith is more effective, but this stacks with it.
 Make sure to protect the Runesmiter!
 
+## The Runes
+
+At the start of each of your hero phases, you can activate a rune. A rune can only be activated once per game. Roll a dice and on a 6 you get its enhanced effect.
+
+- Rune of Fury: Reroll 1s to hit on the combat phase. *Enhanced*: Add 1 to Attacks of melee weapons.
+- Rune of Searing Heat: Wound rolls of 6+ are resolved with +1 Damage. *Enhanced*: Deal 1 mortal wound to enemy units within 3" of *any* Fyreslayer units.
+- Rune of Awakened Steel: Melee weapons get -1 Rend. *Enhanced*: Additional -1 Rend
+- Rune of Fiery Determination: Ignore Battleshock. *Enhanced*: Models slain in combat stay until the end of the  phase.
+- Rune of Relentless Zeal: +4 Move. *Enhanced*: +4 Charge.
+- Rune of Farsight: +8" range to Throwing Axes. *Enhanced*: Reroll 1s to hit for Throwing Axes.
+
+### Notes
+
+Turn 1 you will almost always use *Farsight* (to hit with throwing axes), *Relentless Zeal* (to set up a charge) or *Fiery Determination* (if you need to hold your ground).
+
+Remember that *Farsight* plus a **Runesmiter** Deepstrike probably guarantees your entire unit throwing their axes at something, but also remember that the Throwing Axes aren't particularly good.
+
+When you need to hit something harder, the best option will nearly always bee *Awakened Steel* for the Rend. In the event that you are swinging at enemies with no Save at all or have already used *Awakened Steel*, use *Searing Heat* or *Fury*, in that order.
