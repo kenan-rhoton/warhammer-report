@@ -3,6 +3,10 @@
 - [The Units](#the-units)
 - [The Battallions](#the-battallions)
 - [The Runes](#the-runes)
+- [Strategy](#strategy)
+- [Tactics](#tactics)
+- [Buying Order](#buying-order)
+
 
 ## The Units
 
@@ -274,6 +278,25 @@ Abilities:
 Pretty good, crazy expensive. Normally a Battlesmith is more effective, but this stacks with it.
 Make sure to protect the Runesmiter!
 
+
+### Vostarg Lodge (100)
+
+- 1 Lords of the Lodge (with aditional unit of Hearthguard Berzerkers)
+- 1 Warrior Kinband
+- Any other Fyreslayer units
+
+Abilities:
+- Proud Lineage: The Rune of Fiery Determination is always activated with an enhanced effect.
+- Fearsome Reputation: Subtract 1 Bravery from any enemy units within 3" of units from the Battallion
+
+#### Notes
+
+This comes with an awesome benefit: having *two* units of Hearthguard Berzerkers to benefit from Lords of the Lodge.
+
+However, it costs 100 points on top of forcing you to also pick a kinband which means you also need to bring 3 units of vulkites (which will probably be 10-man then), which means it's probably a prohibitive cost in terms of fielding a very useful army.
+
+This might be awesome in 2.5k, though.
+
 ## The Runes
 
 At the start of each of your hero phases, you can activate a rune. A rune can only be activated once per game. Roll a dice and on a 6 you get its enhanced effect.
@@ -292,3 +315,52 @@ Turn 1 you will almost always use *Farsight* (to hit with throwing axes), *Relen
 Remember that *Farsight* plus a **Runesmiter** Deepstrike probably guarantees your entire unit throwing their axes at something, but also remember that the Throwing Axes aren't particularly good.
 
 When you need to hit something harder, the best option will nearly always bee *Awakened Steel* for the Rend. In the event that you are swinging at enemies with no Save at all or have already used *Awakened Steel*, use *Searing Heat* or *Fury*, in that order.
+
+## Strategy
+
+### Army Core
+
+The possible cores are:
+- Vulkite Spam (Including Warrior Kinband)
+- Lords of the Lodge (with a 30-man Hearthguard Berzerkers unit)
+- Forge Brethren
+- Vostarg Lodge
+
+I would consider the first two to be much superior as core components, and in fact they can be combined (there is enough space in 2k for Lords of the Lodge with 30 Hearthguard + two full units of Vulkites).
+
+
+### Heroes
+
+TBD
+
+### Metagame
+
+TBD
+
+## Tactics
+
+TBD
+
+### Matchups
+
+TBD
+
+### Battleplan quirks
+
+TBD
+
+### Common combinations
+
+TBD
+
+## Buying Order
+
+Current plan is:
+- ~~The Chosen Axes~~
+- Start Collecting
+- Start Collecting
+- Vulkite Berzerkers x 3
+- Battlesmith
+- Vulkite Berzerkers
+- Hearthguard Berzerkers x 2
+- Auric Hearthguard x 2
