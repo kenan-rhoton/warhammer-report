@@ -9,3 +9,7 @@ Reports about recent Age of Sigmar games.
 ## Strategy
 
 - [Fyreslayers](strategy/Fyreslayers.md)
+
+## Narrative
+
+- [Halgrim Lodge](narrative/HalgrimLodge.md)

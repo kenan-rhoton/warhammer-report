@@ -359,8 +359,10 @@ Current plan is:
 - ~~The Chosen Axes~~
 - Start Collecting
 - Start Collecting
-- Vulkite Berzerkers x 3
+- Vulkite Berzerkers x 2
 - Battlesmith
-- Vulkite Berzerkers
+- Auric Runemaster
+- Vulkite Berzerkers x 2
+- Grimwrath Berzerker
 - Hearthguard Berzerkers x 2
 - Auric Hearthguard x 2
