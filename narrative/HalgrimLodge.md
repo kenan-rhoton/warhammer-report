@@ -16,7 +16,7 @@ La Logia de Halgrim renacida:
 			- La Runaígnea [Auric Hearthguard]
 	- Turknir [Auric Runeson on Magmadroth - Fuertellama]
 		- Lognush [Karl del Martilloardiente]
-			- El Martilloardiente [Vulkite Berzerkers, dos hachas]
+			- El Hachardiente [Vulkite Berzerkers, dos hachas]
 	- Garev [Auric Runeson]
 		- Mikrah [Karl del Yunque Negro]
 			- El Yunque Negro [Vulkite Berzerkers, picas y escudos]
@@ -53,8 +53,9 @@ Esquema de colores:
 - Auric Runeson (Heredero):
 	- Pelo: Mitad trasera de las puntas turquesas
 	- Armas (guarnición): Turquesas
-- Auric Runemaster:
+- Auric Runemaster (Bergush el ciego):
 	- Pelo: Blanco con puntas naranjas, adornado con dorado
+	- Ojos: Tatuaje gris oscuro en la cara
 	- Armas (metal): Dorado
 	- Armadura (metal): Dorado
 - Auric Runesmiter:
@@ -65,7 +66,26 @@ Esquema de colores:
 	- Pelo: Puntas negras
 - Vulkite Berzerkers:
 	- Pelo: Mecha negra, el Karl con múltiples.
+	- El Hachardiente: Los filos de las hachas "al rojo vivo", tatuajes rojos por la piel.
+	- El Yunque Negro: Escudos, armas y ropas con gris oscuro
 - Hearthguard Berzerkers:
 	- Pelo: Mecha negra y turquesa, el Karl con múltiples.
+	- Guardiagris: Ropas de puro metal
 - Auric Hearthguard:
 	- Pelo: Mecha negra y blanca, el Karl con múltiples.
+	- Runaígnea: Barbas y brazos con mechas amarillas.
+
+Colores necesarios:
+- Color piel
+- Wash piel (oscurillo)
+- Color acero (armas)
+- Color rojo intenso (armas)
+- Wash rojizo oscuro (armas y pelo + tatuajes)
+- Color gris oscuro (ropas, pelo de Vulkites, HGB y BS)
+- Wash negro (ropas)
+- Color dorado (runas y detalles RM)
+- Color naranja (pelo de casi todos)
+- Color gris claro (pelo de RM, RSM y BS)
+- Color turquesa (armas y pelos de líderes)
+- Color gris medio (guardiagris)
+- Color amarillo intenso (Runaígnea)
