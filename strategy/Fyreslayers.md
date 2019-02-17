@@ -328,14 +328,63 @@ The possible cores are:
 
 I would consider the first two to be much superior as core components, and in fact they can be combined (there is enough space in 2k for Lords of the Lodge with 30 Hearthguard + two full units of Vulkites).
 
+Forge Brethren is also relatively strong, but it pales compared to the other two.
 
 ### Heroes
 
-TBD
+The army has two extremely important heroes: the Auric Runesmiter and the Battlesmith.
+The first gives your army deep striking capabilities and wound rerolling, and the second makes your almost unkillable blobs of naked dwarfs become literally unkillable blobs of naked dwarfs.
+
+After that, we have the Auric Runefather and Auric Runemaster which, together with the Battlesmith, activate the Lords of the Lodge battallion, superchargin a unit of Hearthguard Berzerkers and gaining the ability to seize the initiative on turn 1.
+
+The Grimwrath Berzerker is also effective both at killing Heroes and Screens, especially if given an artifact to enhance his damaging capabilities.
+
+The Auric Runeson can occasionally come in handy both because of wound rerolling and because of his ability to wreck monsters with his Wyrmslayer Javelins.
+
+Finally, the Magmadroths are generally good at clearing chaff, but are not resilient enough to survive the frontlines.
 
 ### Metagame
 
+The current metagame consists of three armies to beat:
+
+- Legions of Nagash, with strong magic and a hero + screen focused gameplay
+- Stormcast Eternals, with tough units that are very cost-efficient and map control
+- Daughters of Khaine, with high speed, high damage and wound reflection
+
+### Realms
+
 TBD
+
+### Lists
+
+Currently I believe the best list is the following:
+
+**Leaders**
+- Auric Runefather (100)
+	- General
+- Auric Runeson (80)
+	- Wyrmslayer Javelins
+- Auric Runemaster (80)
+	- Artefact: Alchemical Chain
+- Battlesmith (120)
+- Auric Runesmiter (120)
+	- Forge Key
+- Grimwrath Berzerker (80)
+	- Artefact: Rune Blade
+
+**Battleline**
+- 30 x Hearthguard Berzerkers (480)
+	- Broadaxes
+- 30 x Vulkite Berzerkers (360)
+	- Pairs of Handaxes
+- 30 x Vulkite Berzerkers (360)
+	- War-Picks & Slingshields
+
+**Units**
+- 5 x Auric Hearthguard (100)
+
+**Battalions**
+- Lords of the Lodge (110)
 
 ## Tactics
 
